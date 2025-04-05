@@ -10,7 +10,6 @@
 </p>
 
 <div align="center">
-  <img src="./public/assets/portfolio.gif" alt="Portfolio Demo" width="100%" />
   <br>
 </div>
 
