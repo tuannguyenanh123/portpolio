@@ -5,7 +5,7 @@ const projects = {
             image: '/assets/projects/PIAIC.png',
             label: 'Featured Project',
             title: 'CARBONIX AND ELIC LINK',
-            description: 'The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.',
+            description: 'The mission of CARBONIX AND ELIC LINK is to reshape JAPAN by revolutionizing research, and business by adopting latest, cutting-edge technologies.',
             techs: [
                 'Vue Js',
                 'Nuxt Js',
@@ -17,7 +17,7 @@ const projects = {
             image: '/assets/projects/digitalplattform.png',
             label: 'Featured Project',
             title: 'SPA-X',
-            description: 'A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media',
+            description: 'Smart beauty appointment booking platform',
             techs: [
                 'Next Js',
                 'React Js',
@@ -27,10 +27,10 @@ const projects = {
             ]
         },
         {
-            image: '/assets/projects/declinica.png',
+            image: '/assets/projects/digitalplattform.png',
             label: 'Featured Project',
             title: 'INTERNAL Tool',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            description: 'A unified tool to streamline workflows, enhance collaboration, and optimize company-wide operations.',
             techs: [
                 'Next Js',
                 'React Js',
@@ -43,20 +43,22 @@ const projects = {
             image: '/assets/projects/rolazdoro.png',
             label: 'Featured Project',
             title: `PMS-HOTEL, F&B`,
-            description: `One of the main objective of PMS-HOTEL, F&B is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
+            description: `A comprehensive solution to streamline reservations, front-desk operations, and revenue management for hotels and resorts.`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Next JS',
             ]
         },
         {
-            image: '/assets/projects/chainracers.png',
+            image: '/assets/projects/declinica.png',
             label: 'Featured Project',
             title: `CLOUD MEDIA`,
-            description: `CLOUD MEDIA is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
+            description: `A modular ecosystem for communities, creators, and businesses to interact meaningfully.`,
             techs: [
                 'React Js',
-                'Web3 Js',
+                'Next JS',
+                'MongoDB',
+                'Express Js',
+                'WebRTC'
             ]
         }
     ]
